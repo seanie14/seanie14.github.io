@@ -29,10 +29,15 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 # 📝 Publications 
 
 
-- [Set Based Stochastic Subsampling](https://icml.cc/Conferences/2022/Schedule?showEvent=17893), Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwang , **ICML 2022**
+- <font size="4">Set Based Stochastic Subsampling</font>
+[[paper]]((https://icml.cc/Conferences/2022/Schedule?showEvent=17893) \\
+Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwang \\
+<span style="color:darkred">**ICML**</span> 2022
+
+
 - [Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning](https://arxiv.org/abs/2110.02600), **Seanie Lee\***, **Hae Beom Lee\***, Juho Lee, Sung Ju Hwang, **ICLR 2022**
 - [Learning to Perturb Word Embeddings for Out-of-distribution QA](https://arxiv.org/abs/2105.02692), **Seanie Lee\***, Minki Kang\*, Juho Lee, Sung Ju Hwang, **ACL 2021**
-- [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/forum?id=Wga_hrCa3P3), **Seanie Lee\***, **Dong Bok Lee**, Sung Ju Hwang, **ICLR 2021**
+- [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/forum?id=Wga_hrCa3P3), **Seanie Lee\***, Dong Bok Lee\*, Sung Ju Hwang, **ICLR 2021**
 - [Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning](https://openreview.net/forum?id=wS0UFjsNYjn), Dong Bok Lee, Dongchan Min, **Seanie Lee**, Sung Ju Hwang
 - [Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs](https://aclanthology.org/2020.acl-main.20/), Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang, **ACL 2022**
 - [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136), Kyubyong Park\*, **Seanie Lee\***, **INTERSPEECH 2020** 
