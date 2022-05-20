@@ -58,7 +58,7 @@ Dong Bok Lee, Dongchan Min, **Seanie Lee**, Sung Ju Hwang \\
 
 - <font size="4">Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs</font>
 [[paper]](https://aclanthology.org/2020.acl-main.20/) \\
- Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang\\
+ Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2020
 
 
