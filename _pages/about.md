@@ -35,7 +35,7 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 - [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/forum?id=Wga_hrCa3P3), **Seanie Lee\***, **Dong Bok Lee**, Sung Ju Hwang, **ICLR 2021**
 - [Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning](https://openreview.net/forum?id=wS0UFjsNYjn), Dong Bok Lee, Dongchan Min, **Seanie Lee**, Sung Ju Hwang
 - [Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs](https://aclanthology.org/2020.acl-main.20/), Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang, **ACL 2022**
-- [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136), Kyubyong Park\*, **Seanie Lee\*, **INTERSPEECH 2020** 
+- [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136), Kyubyong Park\*, **Seanie Lee\***, **INTERSPEECH 2020** 
 
 # 🎖 Honors and Awards
 - *2018.12* [Silver Medal in NLP challenge](https://github.com/monologg/naver-nlp-challenge-2018)
