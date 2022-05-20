@@ -47,8 +47,8 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 - *2011.03 - 2018.02*, B.A. in Library and Information Science. Yonsei University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.12*, Tech. talk, NAVER corp. Present ACL 2022 paper.
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.12*, [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kwaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
