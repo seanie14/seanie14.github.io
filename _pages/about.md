@@ -36,7 +36,7 @@ Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwa
 
 - <font size="4">Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning</font>
 [[paper]](https://openreview.net/forum?id=ivQruZvXxtz) \\
-**Seanie Lee\***, **Hae Beom Lee\***, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
+**Seanie Lee\***, Hae Beom Lee\*, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2022
 
 - <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
