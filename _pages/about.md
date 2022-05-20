@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Machine Learning and Artificial Intelligence (MLAI) lab in KAIST, working on natural language processing and machine learning. I am fortunate to be advised by Sung Ju Hwang and Juho Lee. Here is my CV.
+I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by [Sung Ju Hwang](http://www.sungjuhwang.com/) and [Juho Lee](https://juho-lee.github.io/). Here is my CV.
 
 
 
@@ -28,19 +28,14 @@ I am a PhD student at Machine Learning and Artificial Intelligence (MLAI) lab in
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Set Based Stochastic Subsampling](https://github.com), Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwang , **ICML 2022**
+- [Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning](https://arxiv.org/abs/2110.02600), **Seanie Lee\***, **Hae Beom Lee\***, Juho Lee, Sung Ju Hwang, **ICLR 2022**
+- [Learning to Perturb Word Embeddings for Out-of-distribution QA](https://arxiv.org/abs/2105.02692), **Seanie Lee\***, Minki Kang\*, Juho Lee, Sung Ju Hwang, **ACL 2021**
+- [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/forum?id=Wga_hrCa3P3), **Seanie Lee\***, **Dong Bok Lee**, Sung Ju Hwang, **ICLR 2021**
+- [Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning](https://openreview.net/forum?id=wS0UFjsNYjn), Dong Bok Lee, Dongchan Min, **Seanie Lee**, Sung Ju Hwang
+- [Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs](https://aclanthology.org/2020.acl-main.20/), Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang, **ACL 2022**
+- [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136), Kyubyong Park\*, **Seanie Lee\*, **INTERSPEECH 2020** 
 
 # 🎖 Honors and Awards
 - *2018.12* [Silver Medal in NLP challenge](https://github.com/monologg/naver-nlp-challenge-2018)
