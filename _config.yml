@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Seanie Lee"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/seanie_profile.jpeg"
   bio              : "PhD. Student at KAIST"
   location         : "Dajeon, South Korea"
   employer         :
